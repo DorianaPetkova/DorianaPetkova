@@ -42,6 +42,7 @@
   <a href="https://discordapp.com/users/609809916085010458" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
   <a href = "https://www.tumblr.com/indzhe"><img src="https://img.shields.io/badge/tumblr-%231DA1F2.svg?&style=for-the-badge&logo=tumblr&logoColor=white" target="_blank">  </a>
 </p>
-
-
+<h2> 4. &nbsp;My stats /working on getting better/ </h2>
+[![GitHub language count](https://img.shields.io/github/languages/count/DorianaPetkova/Hakaton-2023)](https://github.com/DorianaPetkova/Hakaton-2023)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DorianaPetkova&theme=highcontrast&show_icons=true)
 <br/>
