@@ -14,8 +14,7 @@
 
 - 💻 Backend &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png)
-  ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+ 
 - 🌐 Frontend &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -41,13 +40,3 @@
 </a>
 
 <br/>
-
-<h3> 📬 &nbsp; My socials </h3>
-
-<p align="center">
-<a href="https://discordapp.com/users/609809916085010458"><img alt="Discord" src="https://asset.brandfetch.io/idM8Hlme1a/idHdpdABAN.svg?updated=1668075051777"></a>
-<a href="https://www.tumblr.com/indzhe"><img alt="Tumblr" src="https://assets.tumblr.com/images/logo_page/1x/ios-black.png?_v=19fe08215df7ae55588cb78b27d6eab9"></a>
-<a href="https://www.instagram.com/_indzhe_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-
-</p>
-
