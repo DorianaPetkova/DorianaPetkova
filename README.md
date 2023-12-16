@@ -42,7 +42,5 @@
   <a href="https://discordapp.com/users/609809916085010458" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
   <a href = "https://www.tumblr.com/indzhe"><img src="https://img.shields.io/badge/tumblr-%231DA1F2.svg?&style=for-the-badge&logo=tumblr&logoColor=white" target="_blank">  </a>
 </p>
-<h2> 4. &nbsp;My stats /working on getting better/ </h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DorianaPetkova&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DorianaPetkova)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
