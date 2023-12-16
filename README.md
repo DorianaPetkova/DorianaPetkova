@@ -43,10 +43,6 @@
   <a href = "https://www.tumblr.com/indzhe"><img src="https://img.shields.io/badge/tumblr-%231DA1F2.svg?&style=for-the-badge&logo=tumblr&logoColor=white" target="_blank">  </a>
 </p>
 <h2> 4. &nbsp;My stats /working on getting better/ </h2>
-<a href="https://github.com/DorianaPetkova/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianaPetkova&repo=github-readme-stats&theme=highcontrast" />
-</a>
-<a href="https://github.com/DorianaPetkova/DorianaPetkova.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianaPetkova&repo=DorianaPetkova.github.io&theme=highcontrast" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DorianaPetkova&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DorianaPetkova)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
