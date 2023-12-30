@@ -34,7 +34,8 @@
   ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 <br>
-![DorianaPetkova's GitHub stats](https://img.shields.io/github/followers/DorianaPetkova?style=social)
+![DorianaPetkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorianaPetkova&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 
 
 
