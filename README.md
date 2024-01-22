@@ -30,8 +30,8 @@
 - 🔧 Environment &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ✂️  Design &nbsp;
-  ![Krita](https://img.shields.io/badge/Krita-333333?style=flat&logo=krita&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=Canva&logoColor=white)
+  ![Krita](https://img.shields.io/badge/Krita-333333?style=flat&logo=krita&logoColor=FF80FF)
+  ![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=Canva&logoColor=01C3CC)
 <br>
 
 
