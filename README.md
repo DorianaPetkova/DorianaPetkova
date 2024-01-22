@@ -14,8 +14,8 @@
 
 - 💻 Backend &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=00599C)
+  ![C#](https://img.shields.io/badge/c%23-333333?style=flat&logo=csharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python&logoColor=ffdd54)
 - 🌐 Frontend &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -30,8 +30,8 @@
 - 🔧 Environment &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ✂️  Design &nbsp;
-  ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=00599C)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=00599C)
+  ![Krita](https://img.shields.io/badge/Krita-333333?style=flat&logo=krita&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=Canva&logoColor=white)
 <br>
 
 
