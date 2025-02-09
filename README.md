@@ -4,7 +4,7 @@
 
 <h2> 1. &nbsp;About Me </h2>
 
-  - 🌈 &nbsp; 17, ISTJ
+  - 🌈 &nbsp; 18, ISTJ
   - 💪 &nbsp; Learning how to be a software developer /still a work in progress/.
   - 🎓 &nbsp; Studying IT at School of Mathematics and Natural sciences "Acad. Nikola Obreshkov", Burgas.
   - 💡 &nbsp; Learning more about Database and Artificial Intelligence.
