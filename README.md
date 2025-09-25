@@ -6,7 +6,7 @@
 
   - 🌈 &nbsp; 18, ISTJ
   - 💪 &nbsp; Learning how to be a software developer /still a work in progress/.
-  - 🎓 &nbsp; Studying IT at School of Mathematics and Natural sciences "Acad. Nikola Obreshkov", Burgas.
+  - 🎓 &nbsp; Studying Software Engineering at FMI.
   - 💡 &nbsp; Learning more about Database and Artificial Intelligence.
   - ✍️ &nbsp; I write in my free time.
 
